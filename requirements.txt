@@ -1,0 +1,3 @@
+kaggle
+opencv-python
+scikeras
